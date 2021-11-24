@@ -1,4 +1,4 @@
-# README-templates
+# README-template
 
 # Project Title
 
